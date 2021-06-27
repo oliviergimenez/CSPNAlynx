@@ -1,61 +1,30 @@
 ---
-title: "Conseil Scientifique PNA Lynx"
-#description: "A two-day workshop"
+title: "Conseil scientifique du Plan national d’actions en faveur du Lynx boréal"
 site: distill::distill_website
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
-
 ```
 
+Créé en juillet 2020 ([voir arrêté préfectoral](documents/arrêté_préfectoral.pdf)), le Conseil scientifique du [Plan national d’actions (PNA) en faveur du Lynx boréal](http://www.bourgogne-franche-comte.developpement-durable.gouv.fr/plan-national-d-actions-en-faveur-du-lynx-a8019.html) est chargé de formuler des recommandations sur les études, les expérimentations scientifiques, les orientations stratégiques du PNA et toutes les actions autres s'inscrivant dans les objectifs du PNA. 
 
-Composition :   
-Date de création : xx  
-Missions : 
-Contact : 
+Les comptes-rendus des réunions du Conseil scientifique sont publics et disponibles via le menu déroulant dédié, situé en haut à droite. Le Conseil scientifique s'est doté d'un règlement intérieur consultable [ici](documents/règlement_intérieur_avril2021.pdf). 
 
-# Timeline
+Le Conseil scientifique est composé des membres suivants :
 
-- Day 1
-   - Getting familiar with individual-based models (IBMs)
-   - Getting familiar with `NetLogoR`
-   - Understanding simple models coded in `NetLogoR`
-- Day 2
-   - Understanding more complex models coded in `NetLogoR`
-   - Debugging IBMs
-   - Parameterizing IBMs
-   - Publishing IBMs
-   - Coding on your own
++ [Farid Benhammou](https://ruralites.labo.univ-poitiers.fr/membres/farid-benhammou/) 
++ [Philippe Billet](https://www.univ-lyon3.fr/billet-philippe) (vice-président)  
++ [Guillaume Chapron](https://www.guillaumechapron.info/)  
++ [Guillaume Christen](https://sage.unistra.fr/membres/post-doctorants/christen-guillaume/)
++ [Hervé Fritz](https://scholar.google.com/citations?user=86MFanQAAAAJ&hl=fr)  
++ [Olivier Gimenez](https://oliviergimenez.github.io/) (président)  
++ [Patrick Giraudoux](https://chrono-environnement.univ-fcomte.fr/spip.php?page=perso&nom=GIRAUDOUX&prenom=Patrick)  
++ [Alexis Lécu](https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=Alexis+L%C3%A9cu&btnG=)  
++ [François Moutou](https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&as_ylo=2021&q=Fran%C3%A7ois+Moutou&btnG=)  
++ [Audrey Savouré-Soubelet](https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&as_ylo=2021&q=Audrey+Savour%C3%A9-Soubelet&btnG=)  
++ [Nolwenn Drouet-Hoguet](https://scholar.google.fr/citations?user=UX8u7wMAAAAJ&hl=fr) (vice-présidente)  
++ [Pierre Taberlet](https://scholar.google.com/citations?user=dW64iDkAAAAJ&hl=fr)  
++ [Aline Treillard](https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=Aline+Treillard&btnG=)  
++ [Fridolin Zimmermann](https://www.kora.ch/index.php?id=232&L=2)  
 
-# Requirements
-
-* Install [`R`](https://cloud.r-project.org/) and [`RStudio`](https://rstudio.com/products/rstudio/download/#download)
-
-* Install the following `R` packages: `NetLogoR`, `testthat`. You can install them all at once by running the following code in the `R` command line:
-
-```{r eval = FALSE, echo = TRUE}
-install.packages(c("NetLogoR", "testthat"))
-```
-
-* You need to be familiar with `R`. This workshop is not about learning how to code on `R` but how to use an `R` package in particular. For example, you need to be familiar with for loops and how to create function (even if they are very simple ones).  
-
-### For any help before or after the workshop
-
-Sarah Bauduin: sarah.bauduin@ofb.gouv.fr
-
-
-
-<!-- ## Corrections {.appendix} -->
-
-<!-- If you see mistakes or want to suggest changes, please [create an issue](https://github.com/oliviergimenez/reproducible-science-workshop/issues) on the source repository. -->
-
-<!-- ## Reuse {.appendix} -->
-
-<!-- Text and figures are licensed under Creative Commons Attribution [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Any computer code (R, HTML, CSS, etc.) in slides and worksheets, including in slide and worksheet sources, is also licensed under [MIT](https://github.com/oliviergimenez/reproducible-science-workshop/blob/master/LICENSE.md).  -->
