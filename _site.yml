@@ -1,0 +1,32 @@
+name: "CSPNAlynx"
+title: "Conseil Scientifique PNA Lynx"
+#description: "A two-day workshop"
+output_dir: "docs"
+theme: "theme.css"
+#repository_url: https://github.com/wilkelab/SDS375
+include: [".nojekyll"]
+navbar:
+#  logo:
+#    image: images/cefe.png
+#    href: https://www.cefe.cnrs.fr/en/
+  source_url: true
+  left:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Practicals"
+      menu:
+        - text: "Forest model"
+          href: practicals/1_ForestModel.R
+        - text: "Population model"
+          href: practicals/2_PopulationModel.R
+        - text: "NetLogoR"
+          href: practicals/3_NetLogoR.R
+        - text: "Butterfly Hill topping"
+          href: practicals/4_ButterflyHilltopping.R
+        - text: "Exercise"
+          href: practicals/5_Exercise.R
+    - icon: fab fa-github
+      href: https://github.com/oliviergimenez/IBM-workshop
+output: distill::distill_article
+
