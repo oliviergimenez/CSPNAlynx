@@ -18,9 +18,9 @@ navbar:
     - text: "Documents"
       menu:
         - text: "Arrêté préfectoral création CS"
-          href: documents/arrêté_préfectoral.pdf
+          href: documents/arrêté_préfectoral.pdf
         - text: "Règlement intérieur"
-          href: documents/règlement_intérieur_avril2021.pdf
+          href: documents/règlement_intérieur_avril2021.pdf
     - icon: fab fa-github
       href: https://github.com/oliviergimenez/CSPNAlynx
 output: distill::distill_article
