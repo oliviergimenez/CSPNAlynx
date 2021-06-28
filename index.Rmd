@@ -19,7 +19,7 @@ Le Conseil scientifique est composé des membres suivants :
 + [Guillaume Christen](https://sage.unistra.fr/membres/post-doctorants/christen-guillaume/)
 + [Hervé Fritz](https://scholar.google.com/citations?user=86MFanQAAAAJ&hl=fr)  
 + [Olivier Gimenez](https://oliviergimenez.github.io/) (président)  
-+ [Patrick Giraudoux](https://chrono-environnement.univ-fcomte.fr/spip.php?page=perso&nom=GIRAUDOUX&prenom=Patrick)  
++ [Patrick Giraudoux](https://chrono-environnement.univ-fcomte.fr/personnes/annuaire/article/giraudoux-patrick)  
 + [Alexis Lécu](https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=Alexis+L%C3%A9cu&btnG=)  
 + [François Moutou](https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&as_ylo=2021&q=Fran%C3%A7ois+Moutou&btnG=)  
 + [Audrey Savouré-Soubelet](https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&as_ylo=2021&q=Audrey+Savour%C3%A9-Soubelet&btnG=)  
