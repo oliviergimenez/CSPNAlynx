@@ -7,11 +7,9 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Créé en juillet 2020 ([voir arrêté préfectoral](https://github.com/oliviergimenez/CSPNAlynx/blob/master/documents/arr%C3%AAt%C3%A9_pr%C3%A9fectoral.pdf)), le Conseil scientifique du [Plan national d’actions (PNA) en faveur du Lynx boréal](http://www.bourgogne-franche-comte.developpement-durable.gouv.fr/plan-national-d-actions-en-faveur-du-lynx-a8019.html) est chargé de formuler des recommandations sur les études, les expérimentations scientifiques, les orientations stratégiques du PNA et toutes les actions autres s'inscrivant dans les objectifs du PNA. 
+Créé en juillet 2020, le Conseil scientifique du [Plan national d’actions (PNA) en faveur du Lynx boréal](http://www.bourgogne-franche-comte.developpement-durable.gouv.fr/plan-national-d-actions-en-faveur-du-lynx-a8019.html) est chargé de formuler des recommandations sur les études, les expérimentations scientifiques, les orientations stratégiques du PNA ainsi que toutes les actions autres s’inscrivant dans les objectifs du PNA, conformément à l’article 1er de l’[arrêté préfectoral de constitution](https://github.com/oliviergimenez/CSPNAlynx/blob/master/documents/arr%C3%AAt%C3%A9_pr%C3%A9fectoral.pdf). Pour cela, il peut aider les acteurs du PNA à formuler leurs questionnements pour qu'une réponse scientifique soit possible. Il peut également, le cas échéant, s’en saisir d’office.
 
-Les comptes-rendus des réunions du Conseil scientifique sont publics et disponibles via le menu déroulant dédié, situé en haut à droite. Le Conseil scientifique s'est doté d'un règlement intérieur consultable [ici](https://github.com/oliviergimenez/CSPNAlynx/blob/master/documents/r%C3%A8glement_int%C3%A9rieur_avril2021.pdf). 
-
-Le Conseil scientifique est composé des membres suivants :
+Afin de mener à bien ces missions, il est composé de scientifiques de disciplines variées reconnus dans leurs domaines (biologie des populations, biostatistique/modélisation, droit, génétique des populations, géographie, sciences vétérinaires, sociologie, zoologie/mammalogie). Les membres du Conseil ont vocation à travailler de concert. Les membres du Conseil scientifique sont :
 
 + [Farid Benhammou](https://ruralites.labo.univ-poitiers.fr/membres/farid-benhammou/) 
 + [Philippe Billet](https://www.univ-lyon3.fr/billet-philippe) (vice-président)  
@@ -27,4 +25,9 @@ Le Conseil scientifique est composé des membres suivants :
 + [Pierre Taberlet](https://scholar.google.com/citations?user=dW64iDkAAAAJ&hl=fr)  
 + [Aline Treillard](https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=Aline+Treillard&btnG=)  
 + [Fridolin Zimmermann](https://www.kora.ch/index.php?id=232&L=2)  
+
+Pour formuler ses recommandations, le Conseil scientifique s’appuie sur la méthode scientifique qui impose d’une part un examen impartial des connaissances et, d’autre part, l’identification des incertitudes du moment. Les connaissances sont reconnues comme scientifiquement valides quand elles sont constituées par l’application de méthodes et mesures transparentes et objectives, et ont été soumises à l’examen critique des spécialistes du domaine concerné, hors de tout conflit d’intérêt.
+
+Les comptes-rendus des réunions du Conseil scientifique sont publics et disponibles via le menu déroulant dédié, situé en haut à droite. Le Conseil scientifique s'est doté d'un règlement intérieur consultable [ici](https://github.com/oliviergimenez/CSPNAlynx/blob/master/documents/r%C3%A8glement_int%C3%A9rieur_avril2021.pdf). 
+
 
